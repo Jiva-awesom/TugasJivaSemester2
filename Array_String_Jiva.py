@@ -1,0 +1,21 @@
+binatang = ["Angsa", "Harimau **", "Bebek", "Ayam", "Kelinci"]
+
+for n in binatang:
+    print(f"- {n}")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
+print("hehehehehehehehehehehehhehehaehaheaheae")
